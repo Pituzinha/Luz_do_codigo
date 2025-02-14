@@ -1,3 +1,4 @@
+# and, or, not
 nota = 8.5
 faltas = 10
 nota >= 7 and faltas <15
